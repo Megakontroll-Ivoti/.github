@@ -1,6 +1,12 @@
+![MegaKontroll Sistemas]()
+
 # Seja bem vindo(a)! 
-### Somos uma empresa de software especializada no desenvolviemnto de sistemas para gestão de comércios e indústrias. Com mais de 28 anos de experiência no mercado, entregando facilidade e inovação aos nossos clientes. 
+### Somos uma empresa de software especializada no desenvolviemnto de sistemas para gestão de comércios e indústrias. Com 29 anos de experiência no mercado, entregando facilidade e inovação aos nossos clientes. 
 ### Hoje possuimos sistemas com tecnologia de ponta, sendo uma importante ferramenta para a administração das empresas e também para atendimento de todas as exigências contábeis e fiscais. Sempre com um único objetivo: Juntar o conhecimento adquirido das rotinas de funcionamento de industrias e comércios, com a tecnologia para informatização das mesmas.
+
+##
+
+Visite [https://megakontroll.com.br](https://megakontroll.com.br) para saber mais!
 
 ##
 
