@@ -1,4 +1,4 @@
-![MegaKontroll Sistemas]()
+<!-- ![MegaKontroll Sistemas]() -->
 
 # Seja bem vindo(a)! 
 ### Somos uma empresa de software especializada no desenvolviemnto de sistemas para gestão de comércios e indústrias. Com 29 anos de experiência no mercado, entregando facilidade e inovação aos nossos clientes. 
